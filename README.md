@@ -63,8 +63,8 @@ Test your memory! Repeat the flashing color sequence correctly to level up. One 
 
 ## 📷 Screenshot
 
-![Gameplay Screenshot](images/screenshot.png)  
-
+![Gameplay Screenshot](images/screenshot1.PNG)
+![Gameplay Screenshot](images/screenshot2.PNG)  
 
 ---
 
