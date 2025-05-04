@@ -8,8 +8,17 @@ let highestScore;
 let started=false;
 let level=0;
 let h2=document.querySelector("h2");
+let start=document.getElementById("start");
+
 
 document.addEventListener("keypress",function(){
+    if(started==false){
+        console.log("game is started");
+        started=true;
+        levelUp();
+    }
+});
+start.addEventListener("click",function(){
     if(started==false){
         console.log("game is started");
         started=true;
@@ -31,6 +40,7 @@ function userFlash(btn){
 
 }
 function levelUp(){
+    start.style.display="none";
     userseq=[];
     level++;
     h2.innerText=`Level ${level}`;
