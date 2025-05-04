@@ -64,7 +64,7 @@ Test your memory! Repeat the flashing color sequence correctly to level up. One 
 ## 📷 Screenshot
 
 ![Gameplay Screenshot](images/screenshot.png)  
-> Replace with your actual screenshot after uploading to the `images/` folder.
+
 
 ---
 
@@ -77,6 +77,11 @@ Test your memory! Repeat the flashing color sequence correctly to level up. One 
 2.Navigate into the project folder:
   cd Simon-Say-Game
 
-  
 3.Open index.html in your browser:
   start index.html
+
+🚀 Future Improvements
+
+   -Add background music and sound effects
+   -Mobile responsiveness
+   -Score leaderboard
